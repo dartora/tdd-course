@@ -18,5 +18,10 @@
     "gitignore": "^0.6.0",
     "husky": "^4.2.5"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "husky": {
+    "hooks": {
+      "pre-push": "npm run lint"
+    }
+  }
 }
