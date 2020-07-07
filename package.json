@@ -15,7 +15,8 @@
     "eslint": "^7.4.0",
     "eslint-config-airbnb-base": "^14.2.0",
     "eslint-plugin-import": "^2.22.0",
-    "gitignore": "^0.6.0"
+    "gitignore": "^0.6.0",
+    "husky": "^4.2.5"
   },
   "dependencies": {}
 }
