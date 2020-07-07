@@ -1,8 +1,6 @@
-import React from "react";
+const a = 2;
 
-// import { Container } from './styles';
-function src() {
-  return <div />;
+function name(params) {
+  return a * params;
 }
-
-export default src;
+name();

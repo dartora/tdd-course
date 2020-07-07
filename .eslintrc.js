@@ -10,4 +10,5 @@ module.exports = {
     sourceType: "module",
   },
   rules: {},
+  plugins: ["jsx-a11y", "import"],
 };
